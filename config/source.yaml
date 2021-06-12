@@ -19,6 +19,35 @@
     channel: ssrList
     num: 200
 
+- type: tgchannel
+  options:
+    channel: jingpingziyuanfenxiang
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: V2List
+    num: 200   
+
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200 
+
+- type: tgchannel
+  options:
+    channel: jiedianbaipiao
+    num: 200 
+    
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200 
+    
+- type: tgchannel
+  options:
+    channel: Trojan8088
+    num: 200 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
