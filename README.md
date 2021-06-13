@@ -52,7 +52,7 @@
 需要安装Golang 
 
 ```sh
-$ go get -u -v github.com/xiaofei-ya/proxypool
+$ go get -u -v github.com/dmnjpan/proxypool
 ```
 
 运行
@@ -67,7 +67,7 @@ make
 
 ### 下载预编译程序
 
-从这里下载预编译好的程序 [release](https://github.com/xiaofei-ya/proxypool/releases)。
+从这里下载预编译好的程序 [release](https://github.com/dmnjpan/proxypool/releases)。
 
 ### 使用docker
 
