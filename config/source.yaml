@@ -7,7 +7,74 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/vmess/sub
+    
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/trojan/sub
+    
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/ssr/sub
 
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/ss/sub
+    
+- type: subscribe
+  options:
+    url: https://us-proxypoolherokuapp.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://us-proxypoolherokuapp.com/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://us-proxypoolherokuapp.com/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool-guest997.herokuapp.com/vmess/sub
+    
+- type: subscribe
+  options:
+    url: https://resona.top/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.ednovas.xyz/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.ednovas.xyz/ssr/sub
+
+- type: subscribe
+  options:
+    url: https://proxypool.ednovas.xyz/trojan/sub
+
+- type: subscribe
+  options:
+    url: https://0520.ml/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://0520.ml/ssr/sub
+    
 # 网页模糊抓取
 - type: webfuzz
   options:
