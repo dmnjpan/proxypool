@@ -2,7 +2,7 @@
   <br>proxypool<br>
 </h1>
 
-<h5 align="center">自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表</h5>
+<h5 align="center">自动抓取节点列表</h5>
 
 <p align="center">
   <a href="https://github.com/xiaofei-ya/proxypool/actions">
