@@ -84,7 +84,23 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    url: https://zua426.cf/clash/proxies?c=HK,TW,JP,KR,US,CA
+
+- type: clash
+  options:
+    url: https://free.zdl.im/clash/proxies?c=HK,TW,JP,KR,US,CA
+
+- type: clash
+  options:
+    url: https://www.joemt.tk/clash/proxies?c=HK,TW,JP,KR,US,CA
+
+- type: clash
+  options:
+    url: https://ednovas.design/clash/proxies?c=HK,TW,JP,KR,US,CA
+
+- type: clash
+  options:
+    url: https://proxypoolss.fly.dev/clash/proxies?c=HK,TW,JP,KR,US,CA
 
 # 某个网站抓取
 - type: web-freessrxyz
