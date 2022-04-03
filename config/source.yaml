@@ -75,6 +75,26 @@
   options:
     url: https://0520.ml/ssr/sub
     
+- type: subscribe
+  options:
+    url: https://zua426.cf/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://free.zdl.im/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://www.joemt.tk/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxypoolss.fly.dev/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://ednovas.design/vmess/sub
+    
 # 网页模糊抓取
 - type: webfuzz
   options:
