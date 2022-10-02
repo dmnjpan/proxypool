@@ -6,40 +6,21 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://proxypool.ednovas.xyz/vmess/sub
+    url: http://121.37.67.232/vmess/sub
 
 - type: subscribe
   options:
-    url: https://proxypool.ednovas.xyz/ssr/sub
+    url: https://proxypool.laowang.me/vmess/sub
 
 - type: subscribe
   options:
-    url: https://proxypool.ednovas.xyz/trojan/sub
+    url: https://free.iam7.tk/vmess/sub
 
-- type: subscribe
-  options:
-    url: https://zua426.cf/vmess/sub
-
-- type: subscribe
-  options:
-    url: https://free.zdl.im/vmess/sub
-
-- type: subscribe
-  options:
-    url: https://www.joemt.tk/vmess/sub
-
-- type: subscribe
-  options:
-    url: https://proxypoolss.fly.dev/vmess/sub
-
-- type: subscribe
-  options:
-    url: https://ednovas.design/vmess/sub
-    
+   
 # 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
+#- type: webfuzz
+#  options:
+#    url: https://merlinblog.xyz/wiki/freess.html
 
 # tg频道抓取
 - type: tgchannel
@@ -84,23 +65,12 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://zua426.cf/clash/proxies?c=HK,TW,JP,KR,US,CA
+    url: http://121.37.67.232/clash/proxies?c=HK,TW,JP,KR,US,CA,RU&nc=CN
 
 - type: clash
   options:
-    url: https://free.zdl.im/clash/proxies?c=HK,TW,JP,KR,US,CA
+    url: https://proxypool.laowang.me/clash/proxies?c=HK,TW,JP,KR,US,CA&nc=CN
 
-- type: clash
-  options:
-    url: https://www.joemt.tk/clash/proxies?c=HK,TW,JP,KR,US,CA
-
-- type: clash
-  options:
-    url: https://ednovas.design/clash/proxies?c=HK,TW,JP,KR,US,CA
-
-- type: clash
-  options:
-    url: https://proxypoolss.fly.dev/clash/proxies?c=HK,TW,JP,KR,US,CA
 
 # 某个网站抓取
 - type: web-freessrxyz
